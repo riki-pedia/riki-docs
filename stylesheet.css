@@ -1,0 +1,12 @@
+        h1{
+            background-color:orange;
+        }
+        a:link {
+            color:orange;
+        }
+        a:visited {
+            color:blue;
+        }
+        a:hover {
+            color:green;
+        }
