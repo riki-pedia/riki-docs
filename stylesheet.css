@@ -34,3 +34,47 @@
        ul {
           font-size:20px;
        }
+	.navbar {
+		background-color:rgb(112, 105, 112);
+		position: relative;
+		z-index: 999;
+	}
+
+	.navbar ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+    background: rgb(112, 105, 112);
+	}
+
+	.navbar li {
+		display: inline-block;
+	}
+
+	.navbar li a {
+		color: white;
+		display: block;
+		padding: 10px 20px;
+		text-decoration: none;
+		font-size:20px;
+	}
+
+	/* Style the dropdown menu */
+	.navbar ul ul {
+		position: absolute;
+		top: 100%;
+		display: none;
+	}
+
+	.navbar ul ul li {
+		display: block;
+	}
+
+	.navbar li:hover ul {
+		display: block;
+	}
+
+	 
+            .navbar ul ul li a:hover {
+		background-color: #555;
+	}
