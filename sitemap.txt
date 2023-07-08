@@ -12,16 +12,3 @@ https://riki-pedia.github.io/riki/yt.html
 https://riki-pedia.github.io/riki/yt2.html
 https://riki-pedia.github.io/riki/ranches.html
 https://riki-pedia.github.io/search.html
-https://riki-pedia.github.io/mobile
-https://riki-pedia.github.io/mobile/about.html
-https://riki-pedia.github.io/mobile/basketball.html
-https://riki-pedia.github.io/mobile/code.html
-https://riki-pedia.github.io/mobile/drum.html
-https://riki-pedia.github.io/mobile/gokart.html
-https://riki-pedia.github.io/mobile/howweb.html
-https://riki-pedia.github.io/mobile/ranches.html
-https://riki-pedia.github.io/mobile/web.html
-https://riki-pedia.github.io/mobile/legacy.html
-https://riki-pedia.github.io/mobile/vg.html
-https://riki-pedia.github.io/mobile/yt.html
-https://riki-pedia.github.io/mobile/yt2.html
