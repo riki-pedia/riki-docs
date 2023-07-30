@@ -1,4 +1,4 @@
-/*This is the css for Rikipedia*/
+/*This is the CSS for Rikipedia*/
         h1{
             background-color:orange;
         }
@@ -34,6 +34,10 @@
        ul {
           font-size:20px;
        }
+	h1 {
+                            background-color:orange;
+				
+			}
 	.navbar {
 		background-color:rgb(112, 105, 112);
 		position: relative;
@@ -74,7 +78,8 @@
 		display: block;
 	}
 
-	 
-            .navbar ul ul li a:hover {
+	/* Change the background color of dropdown links on hover */
+	.navbar ul ul li a:hover {
 		background-color: #555;
 	}
+	    
