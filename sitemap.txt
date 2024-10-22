@@ -5,7 +5,6 @@ https://en.riki-pedia.org/riki/basketball.html
 https://en.riki-pedia.org/riki/code.html
 https://en.riki-pedia.org/riki/drum.html
 https://en.riki-pedia.org/riki/gokart.html
-https://en.riki-pedia.org/riki/howweb.html
 https://en.riki-pedia.org/riki/legacy.html
 https://en.riki-pedia.org/riki/vg.html
 https://en.riki-pedia.org/riki/web.html
@@ -19,7 +18,6 @@ https://es.riki-pedia.org/basketball.html
 https://es.riki-pedia.org/code.html
 https://es.riki-pedia.org/drum.html
 https://es.riki-pedia.org/gokart.html
-https://es.riki-pedia.org/howweb.html
 https://es.riki-pedia.org/vg.html
 https://es.riki-pedia.org/web.html
 https://es.riki-pedia.org/yt.html
@@ -36,7 +34,6 @@ https://darkmode.riki-pedia.org/riki/about-us.html
 https://darkmode.riki-pedia.org/riki/basketball.html
 https://darkmode.riki-pedia.org/riki/gokart.html
 https://darkmode.riki-pedia.org/riki/web.html
-https://darkmode.riki-pedia.org/riki/howweb.html
 https://darkmode.riki-pedia.org/riki/code.html
 https://darkmode.riki-pedia.org/riki/vg.html
 https://js.riki-pedia.org/the-evolution-of-rikipedia
