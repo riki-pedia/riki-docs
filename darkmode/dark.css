@@ -1,89 +1,87 @@
 /* Enables dark background*/
 
-body {
-  background-color:rgb(18, 17, 17);
-}
-.text {
-  color:white;
+body, h1, h2, h3, h4, h5, h6, p, label, ul, li, form {
+  color: #fff !important;
+  background-color: rgb(18, 17, 17) !important;
 }
 /* the old code restyled for a darker interface*/
   h1{
             background-color:#c55506;
         }
         a:link {
-            color:red;
+            color:red !important;
         }
         a:visited {
-            color:blue;
+            color:blue !important;
         }
         a:hover {
-            color:green;
+            color:green !important;
         }
         a:active {
-               color:orange;      
+               color:orange !important;      
         }
            h3 {
 
-              font-size:25px;  
+              font-size:25px !important;  
             }
             h4 {
-            font-size:25px;
+            font-size:25px !important;
             }
           a {
-              font-size:19px;
+              font-size:19px !important;
           }
           h2 {
-             font-size:25px;
+             font-size:25px !important;
                   
           }
         p {
-            font-size:20px;
+            font-size:20px !important;
         }
        ul {
-          font-size:20px;
+          font-size:20px !important;
        }
 /* Navigation bar code*/
 	.navbar {
-		background-color:rgb(86, 84, 86);
-		position: relative;
-		z-index: 999;
+		background-color:rgb(86, 84, 86) !important;
+		position: relative !important;
+		z-index: 999 !important;
 	}
 
 	.navbar ul {
-		list-style-type: none;
+		list-style-type: none !important;
 		margin: 0;
 		padding: 0;
-    background:rgb(86, 84, 86);
+    background:rgb(86, 84, 86) !important;
 	}
 
 	.navbar li {
-		display: inline-block;
+		display: inline-block !important;
 	}
 
 	.navbar li a {
-		color: white;
-		display: block;
-		padding: 10px 20px;
-		text-decoration: none;
-		font-size:20px;
+		color: white !important;
+		display: block !important;
+		padding: 10px 20px !important;
+		text-decoration: none !important;
+		font-size:20px !important;
 	}
 
 	/* Style the dropdown menu */
 	.navbar ul ul {
-		position: absolute;
-		top: 100%;
-		display: none;
+		position: absolute !important;
+		top: 100% !important;
+		display: none !important;
 	}
 
 	.navbar ul ul li {
-		display: block;
+		display: block !important;
 	}
 
 	.navbar li:hover ul {
-		display: block;
+		display: block !important;
 	}
 
 	/* Change the background color of dropdown links on hover */
 	.navbar ul ul li a:hover {
-		background-color: #555;
+		background-color: #555 !important;
 	}
